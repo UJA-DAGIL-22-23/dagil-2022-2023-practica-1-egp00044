@@ -30,6 +30,6 @@ GITHUB
 * **Nombre de usuario**: egp00044
 
 Captura de pantalla:
-<img src='/Perfil_Git.png' width='600px'>
+<img src='/Perfil_GitHub.png' width='600px'>
 
 
